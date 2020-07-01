@@ -9,6 +9,8 @@
 `pip install folium`
 
 Запустить файл main.py.
+
+Открыть файл x.html в любом браузере.
 ___
 # English
 
@@ -22,3 +24,5 @@ Firstly, you need to install libraries like flightradar24 and folium.
 `pip install folium`
 
 And run the main.py file.
+
+Open x.html file in browser.
