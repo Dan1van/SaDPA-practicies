@@ -12,11 +12,11 @@
 Запустить файл main.py.
 
 ___
-#English
+# English
 
 This module generates a plot of the ratio of any currency to the ruble. And 2 SMA functions (https://www.learndatasci.com/tutorials/python-finance-part-3-moving-average-trading-strategy/) with a period of 20 and 100 days You can choose the step and period for which you want to build a plot.
 
-##Install
+## Install
 Firstly, you need to install libraries like pandas, matplotlib and forex_python.
 
 `pip install pandas`

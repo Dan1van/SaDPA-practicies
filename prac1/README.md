@@ -12,11 +12,11 @@
 Запустить файл main.py.
 
 ___
-#English
+# English
 
 This module generates a plot of the ratio of any currency to the ruble. You can choose the step and period for which you want to build a plot.
 
-##Install
+## Install
 Firstly, you need to install libraries like pandas, matplotlib and forex_python.
 
 `pip install pandas`

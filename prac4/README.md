@@ -10,11 +10,11 @@
 
 Запустить файл main.py.
 ___
-#English
+# English
 
 This module generates an airplane flight route. Data is parsed from flightradar24.com. It is required to indicate the flight number in the code.
 
-##Install
+## Install
 Firstly, you need to install libraries like flightradar24 and folium.
 
 `pip install flightradar24`

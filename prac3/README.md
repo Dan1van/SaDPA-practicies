@@ -13,11 +13,11 @@
 
 Запустить файл main.py.
 ___
-#English
+# English
 
 This module parses the average daily temperature in Moscow for the period from 01.01.2015 to 02.31.2020. The plotly library is used to generate the plot.
 
-##Install
+## Install
 Firstly, you need to install libraries like requests, pandas and plotly.
 
 `pip install requests`
