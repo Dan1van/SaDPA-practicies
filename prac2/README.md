@@ -1,8 +1,28 @@
-В данном модуле запускать файл main.py
+# practice 2
+Данный модуль генерирует график отношения любой валюты к рублю. А также 2 функции SMA (https://www.learndatasci.com/tutorials/python-finance-part-3-moving-average-trading-strategy/) с периодом в 20 и 100 дней. Можно выбрать шаг и период за который требуется построить график.
+## Установка
+Для начала требуется установить сторонние библиотеки pandas, matplotlib и forex_python.
 
-Данный модуль генерирует график отношения любой валюты к рублю. А также генерирует 2 rolling функции с периодом в 20 и 100 дней. Можно выбрать шаг и период за который требуется построить график.
+`pip install pandas`
+
+`pip install matplotlib`
+
+`pip install forex-python`
+
+Запустить файл main.py.
+
 ___
+#English
 
-Run main.py in this module.
+This module generates a plot of the ratio of any currency to the ruble. And 2 SMA functions (https://www.learndatasci.com/tutorials/python-finance-part-3-moving-average-trading-strategy/) with a period of 20 and 100 days You can choose the step and period for which you want to build a plot.
 
-This module generates a graph of the ratio of any currency to the ruble. It also generates 2 rolling functions with a period of 20 and 100 days. You can choose the step and period for which you want to build a graph.
+##Install
+Firstly, you need to install libraries like pandas, matplotlib and forex_python.
+
+`pip install pandas`
+
+`pip install matplotlib`
+
+`pip install forex-python`
+
+And run the main.py file.
